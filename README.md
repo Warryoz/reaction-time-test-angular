@@ -1,4 +1,4 @@
-# HUman Reaction Time Test
+# Human Reaction Time Test
 
-### Prove your reaction with this funny test!
+### Prove your reaction time with this fun test!
 
